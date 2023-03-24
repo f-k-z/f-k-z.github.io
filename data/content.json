@@ -1,0 +1,268 @@
+{
+	"projects": [
+		{
+			"id":"merchant-words",
+			"name":"Merchant Words",
+			"cover":"merchant-words.png",
+			"agency":"Merchant Words",
+			"description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+			"date":"2010",
+			"role":"Developer",
+			"skills":"HTML, PHP, JS, CSS",
+			"team":"<a href='#'>John Tronpa</a> (Boss) &amp; <a href='#'>Mark Relou</a> (Designer)</li>",
+			"cta":{ "enable":"true", "label":"View project", "url":"https://francoisgillet.me/" },
+			"assets": [
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"video", "thumb":"https://via.placeholder.com/500x400", "url":"https://www.youtube.com/embed/ScMzIvxBSi4" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" }
+			]
+		},
+		{
+			"id":"lagoon-site",
+			"name":"Lagoon - Site Internet",
+			"cover":"lagoon-site.png",
+			"agency":"Amazing Agency",
+			"description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+			"date":"2010",
+			"role":"Developer",
+			"skills":"HTML, PHP, JS, CSS",
+			"team":"<a href='#'>John Tronpa</a> (Boss) &amp; <a href='#'>Mark Relou</a> (Designer)</li>",
+			"cta":{ "enable":"true", "label":"View project", "url":"https://francoisgillet.me/" },
+			"assets": [
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"video", "thumb":"https://via.placeholder.com/500x400", "url":"https://www.youtube.com/embed/ScMzIvxBSi4" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" }
+			]
+		},
+		{
+			"id":"lagoon-espace-client",
+			"name":"Lagoon - Espace Client",
+			"cover":"lagoon-espace-client.png",
+			"agency":"Amazing Agency",
+			"description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+			"date":"2010",
+			"role":"Developer",
+			"skills":"HTML, PHP, JS, CSS",
+			"team":"<a href='#'>John Tronpa</a> (Boss) &amp; <a href='#'>Mark Relou</a> (Designer)</li>",
+			"cta":{ "enable":"true", "label":"View project", "url":"https://francoisgillet.me/" },
+			"assets": [
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"video", "thumb":"https://via.placeholder.com/500x400", "url":"https://www.youtube.com/embed/ScMzIvxBSi4" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" }
+			]
+		},
+		{
+			"id":"medhi-walerski",
+			"name":"Medhi Walerski",
+			"cover":"medhi-walerski.png",
+			"agency":"Amazing Agency",
+			"description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+			"date":"2010",
+			"role":"Developer",
+			"skills":"HTML, PHP, JS, CSS",
+			"team":"<a href='#'>John Tronpa</a> (Boss) &amp; <a href='#'>Mark Relou</a> (Designer)</li>",
+			"cta":{ "enable":"true", "label":"View project", "url":"https://francoisgillet.me/" },
+			"assets": [
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"video", "thumb":"https://via.placeholder.com/500x400", "url":"https://www.youtube.com/embed/ScMzIvxBSi4" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" }
+			]
+		},
+		{
+			"id":"the-otherside",
+			"name":"The Otherside",
+			"cover":"the-otherside.png",
+			"agency":"Amazing Agency",
+			"description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+			"date":"2010",
+			"role":"Developer",
+			"skills":"HTML, PHP, JS, CSS",
+			"team":"<a href='#'>John Tronpa</a> (Boss) &amp; <a href='#'>Mark Relou</a> (Designer)</li>",
+			"cta":{ "enable":"true", "label":"View project", "url":"https://francoisgillet.me/" },
+			"assets": [
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"video", "thumb":"https://via.placeholder.com/500x400", "url":"https://www.youtube.com/embed/ScMzIvxBSi4" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" }
+			]
+		},
+		{
+			"id":"group-gsa",
+			"name":"Group GSA",
+			"cover":"group-gsa.png",
+			"agency":"Amazing Agency",
+			"description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+			"date":"2010",
+			"role":"Developer",
+			"skills":"HTML, PHP, JS, CSS",
+			"team":"<a href='#'>John Tronpa</a> (Boss) &amp; <a href='#'>Mark Relou</a> (Designer)</li>",
+			"cta":{ "enable":"true", "label":"View project", "url":"https://francoisgillet.me/" },
+			"assets": [
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"video", "thumb":"https://via.placeholder.com/500x400", "url":"https://www.youtube.com/embed/ScMzIvxBSi4" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" }
+			]
+		},
+		{
+			"id":"shop-nc",
+			"name":"Shop.nc",
+			"cover":"shop-nc.png",
+			"agency":"Amazing Agency",
+			"description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+			"date":"2010",
+			"role":"Developer",
+			"skills":"HTML, PHP, JS, CSS",
+			"team":"<a href='#'>John Tronpa</a> (Boss) &amp; <a href='#'>Mark Relou</a> (Designer)</li>",
+			"cta":{ "enable":"true", "label":"View project", "url":"https://francoisgillet.me/" },
+			"assets": [
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"video", "thumb":"https://via.placeholder.com/500x400", "url":"https://www.youtube.com/embed/ScMzIvxBSi4" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" }
+			]
+		},
+		{
+			"id":"le-santal",
+			"name":"Le Santal",
+			"cover":"le-santal.png",
+			"agency":"Amazing Agency",
+			"description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+			"date":"2010",
+			"role":"Developer",
+			"skills":"HTML, PHP, JS, CSS",
+			"team":"<a href='#'>John Tronpa</a> (Boss) &amp; <a href='#'>Mark Relou</a> (Designer)</li>",
+			"cta":{ "enable":"true", "label":"View project", "url":"https://francoisgillet.me/" },
+			"assets": [
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"video", "thumb":"https://via.placeholder.com/500x400", "url":"https://www.youtube.com/embed/ScMzIvxBSi4" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" }
+			]
+		},
+		{
+			"id":"let-your-body-drive",
+			"name":"Let Your Body Drive",
+			"cover":"let-your-body-drive.png",
+			"agency":"Amazing Agency",
+			"description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+			"date":"2010",
+			"role":"Developer",
+			"skills":"HTML, PHP, JS, CSS",
+			"team":"<a href='#'>John Tronpa</a> (Boss) &amp; <a href='#'>Mark Relou</a> (Designer)</li>",
+			"cta":{ "enable":"true", "label":"View project", "url":"https://francoisgillet.me/" },
+			"assets": [
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"video", "thumb":"https://via.placeholder.com/500x400", "url":"https://www.youtube.com/embed/ScMzIvxBSi4" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" }
+			]
+		},
+		{
+			"id":"dhjana",
+			"name":"Nespresso - Dhjana",
+			"cover":"dhjana.png",
+			"agency":"Amazing Agency",
+			"description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+			"date":"2010",
+			"role":"Developer",
+			"skills":"HTML, PHP, JS, CSS",
+			"team":"<a href='#'>John Tronpa</a> (Boss) &amp; <a href='#'>Mark Relou</a> (Designer)</li>",
+			"cta":{ "enable":"true", "label":"View project", "url":"https://francoisgillet.me/" },
+			"assets": [
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"video", "thumb":"https://via.placeholder.com/500x400", "url":"https://www.youtube.com/embed/ScMzIvxBSi4" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" }
+			]
+		},
+		{
+			"id":"disney-casting-module",
+			"name":"Disney - Casting Module",
+			"cover":"disney-casting-module.png",
+			"agency":"Amazing Agency",
+			"description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+			"date":"2010",
+			"role":"Developer",
+			"skills":"HTML, PHP, JS, CSS",
+			"team":"<a href='#'>John Tronpa</a> (Boss) &amp; <a href='#'>Mark Relou</a> (Designer)</li>",
+			"cta":{ "enable":"true", "label":"View project", "url":"https://francoisgillet.me/" },
+			"assets": [
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"video", "thumb":"https://via.placeholder.com/500x400", "url":"https://www.youtube.com/embed/ScMzIvxBSi4" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" }
+			]
+		},
+		{
+			"id":"ford-fusion-2010",
+			"name":"Ford - Fusion 2010",
+			"cover":"ford-fusion-2010.png",
+			"agency":"Amazing Agency",
+			"description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+			"date":"2010",
+			"role":"Developer",
+			"skills":"HTML, PHP, JS, CSS",
+			"team":"<a href='#'>John Tronpa</a> (Boss) &amp; <a href='#'>Mark Relou</a> (Designer)</li>",
+			"cta":{ "enable":"true", "label":"View project", "url":"https://francoisgillet.me/" },
+			"assets": [
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"video", "thumb":"https://via.placeholder.com/500x400", "url":"https://www.youtube.com/embed/ScMzIvxBSi4" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" },
+				{ "type":"img", "thumb":"https://via.placeholder.com/500x400", "url":"https://via.placeholder.com/1000x800" }
+			]
+		}
+	]
+}
